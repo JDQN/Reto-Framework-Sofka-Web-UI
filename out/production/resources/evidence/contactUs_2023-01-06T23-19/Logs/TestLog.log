@@ -1,0 +1,12 @@
+2023-ene.-06 23:19:47 [Test] COMPLETED : Action 'startWebApp' executed successfully with parameters :
+'Feature : 'contactUs' , Url : 'https://demowebshop.tricentis.com/''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\contactUs_2023-01-06T23-19\contactUs\contactUs . Image name: contactUs-0.png
+2023-ene.-06 23:19:47 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\contactUs_2023-01-06T23-19\contactUs\contactUs . Image name: contactUs-1.png
+2023-ene.-06 23:19:51 [Test] COMPLETED : Action 'startWebApp' executed successfully with parameters :
+'Feature : 'contactUs' , Url : 'https://demowebshop.tricentis.com/''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\contactUs_2023-01-06T23-19\contactUs\NOT_FOUND . Image name: NOT_FOUND-0.png
+2023-ene.-06 23:19:52 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\contactUs_2023-01-06T23-19\contactUs\NOT_FOUND . Image name: NOT_FOUND-1.png

@@ -1,0 +1,39 @@
+2023-ene.-07 02:14:09 [Test] COMPLETED : Action 'startWebApp' executed successfully with parameters :
+'Feature : 'contactUs' , Url : 'https://demowebshop.tricentis.com/''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\contactUs_2023-01-07T02-14\contactUs\contactUs . Image name: contactUs-0.png
+2023-ene.-07 02:14:10 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\contactUs_2023-01-07T02-14\contactUs\contactUs . Image name: contactUs-1.png
+2023-ene.-07 02:14:10 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'Josefina' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\contactUs_2023-01-07T02-14\contactUs\contactUs . Image name: contactUs-2.png
+2023-ene.-07 02:14:10 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'luis.adorno@sofmail.com' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\contactUs_2023-01-07T02-14\contactUs\contactUs . Image name: contactUs-3.png
+2023-ene.-07 02:14:10 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'In molestias nam.' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\contactUs_2023-01-07T02-14\contactUs\contactUs . Image name: contactUs-4.png
+2023-ene.-07 02:14:11 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\contactUs_2023-01-07T02-14\contactUs\contactUs . Image name: contactUs-5.png
+2023-ene.-07 02:14:11 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2' , Extracted Text : 'Your enquiry has been successfully sent to the store owner.''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\contactUs_2023-01-07T02-14\contactUs\contactUs . Image name: contactUs-6.png
+2023-ene.-07 02:14:15 [Test] COMPLETED : Action 'startWebApp' executed successfully with parameters :
+'Feature : 'contactUs' , Url : 'https://demowebshop.tricentis.com/''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\contactUs_2023-01-07T02-14\contactUs\NOT_FOUND . Image name: NOT_FOUND-0.png
+2023-ene.-07 02:14:16 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\contactUs_2023-01-07T02-14\contactUs\NOT_FOUND . Image name: NOT_FOUND-1.png
+2023-ene.-07 02:14:16 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'Ernesto' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\contactUs_2023-01-07T02-14\contactUs\NOT_FOUND . Image name: NOT_FOUND-2.png
+2023-ene.-07 02:14:16 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'Vel maxime sed sit quis rem.' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\contactUs_2023-01-07T02-14\contactUs\NOT_FOUND . Image name: NOT_FOUND-3.png
+2023-ene.-07 02:14:17 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\contactUs_2023-01-07T02-14\contactUs\NOT_FOUND . Image name: NOT_FOUND-4.png
+2023-ene.-07 02:14:17 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2' , Extracted Text : 'Enter email''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\contactUs_2023-01-07T02-14\contactUs\NOT_FOUND . Image name: NOT_FOUND-5.png

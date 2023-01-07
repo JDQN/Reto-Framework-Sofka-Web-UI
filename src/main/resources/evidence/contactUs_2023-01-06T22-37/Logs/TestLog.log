@@ -1,0 +1,6 @@
+2023-ene.-06 22:37:09 [Test] COMPLETED : Action 'startWebApp' executed successfully with parameters :
+'Feature : 'contactUs' , Url : 'https://demowebshop.tricentis.com/''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\contactUs_2023-01-06T22-37\contactUs\contactUs . Image name: contactUs-0.png
+2023-ene.-06 22:37:13 [Test] COMPLETED : Action 'startWebApp' executed successfully with parameters :
+'Feature : 'contactUs' , Url : 'https://demowebshop.tricentis.com/''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\contactUs_2023-01-06T22-37\contactUs\NOT_FOUND . Image name: NOT_FOUND-0.png
