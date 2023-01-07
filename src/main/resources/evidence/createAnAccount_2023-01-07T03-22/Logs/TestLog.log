@@ -1,0 +1,27 @@
+2023-ene.-07 03:22:41 [Test] COMPLETED : Action 'startWebApp' executed successfully with parameters :
+'Feature : 'createAnAccount' , Url : 'https://demowebshop.tricentis.com/''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\createAnAccount_2023-01-07T03-22\createAnAccount\createAnAccount . Image name: createAnAccount-0.png
+2023-ene.-07 03:22:41 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\createAnAccount_2023-01-07T03-22\createAnAccount\createAnAccount . Image name: createAnAccount-1.png
+2023-ene.-07 03:22:42 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\createAnAccount_2023-01-07T03-22\createAnAccount\createAnAccount . Image name: createAnAccount-2.png
+2023-ene.-07 03:22:42 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'Javier' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\createAnAccount_2023-01-07T03-22\createAnAccount\createAnAccount . Image name: createAnAccount-3.png
+2023-ene.-07 03:22:42 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'López' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\createAnAccount_2023-01-07T03-22\createAnAccount\createAnAccount . Image name: createAnAccount-4.png
+2023-ene.-07 03:22:42 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'marilu.rivero@sofmail.com' , Timeout : '5''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\createAnAccount_2023-01-07T03-22\createAnAccount\createAnAccount . Image name: createAnAccount-5.png
+2023-ene.-07 03:22:43 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : '64908219' , Timeout : '5''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\createAnAccount_2023-01-07T03-22\createAnAccount\createAnAccount . Image name: createAnAccount-6.png
+2023-ene.-07 03:22:43 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : '64908219' , Timeout : '5''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\createAnAccount_2023-01-07T03-22\createAnAccount\createAnAccount . Image name: createAnAccount-7.png
+2023-ene.-07 03:22:44 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\createAnAccount_2023-01-07T03-22\createAnAccount\createAnAccount . Image name: createAnAccount-8.png

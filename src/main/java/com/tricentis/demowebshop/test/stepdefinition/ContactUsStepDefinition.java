@@ -52,7 +52,7 @@ public class ContactUsStepDefinition extends  GeneralSetUp{
 			
 			LoginPageWebController loginPageWebController = new LoginPageWebController();
 			loginPageWebController.setWebAction(webAction);
-			loginPageWebController.irHaciaRegisterPage();
+			loginPageWebController.irHaciaContactUs();
 			
 		}catch (Exception exception){
 			Assertions.fail(exception.getMessage(), exception);

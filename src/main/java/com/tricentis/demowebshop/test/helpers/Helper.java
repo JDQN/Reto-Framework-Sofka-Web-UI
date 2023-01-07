@@ -3,6 +3,7 @@ package com.tricentis.demowebshop.test.helpers;
 import co.com.sofka.test.evidence.reports.Report;
 import com.github.javafaker.Faker;
 import com.tricentis.demowebshop.test.models.ContacUsFormModel;
+import com.tricentis.demowebshop.test.models.RegisterUserModel;
 
 import java.io.FileReader;
 import java.io.IOException;
@@ -29,6 +30,8 @@ public class Helper {
 		return properties.getProperty(property);
 	}
 	
+	
+	/*Metodo formulario de contacto*/
 	public static ContacUsFormModel generateCustomer(String language, String country, String emailDomain) {
 		
 		Faker faker = Faker.instance(
@@ -49,4 +52,51 @@ public class Helper {
 		
 		return contacUsFormModel;
 	}
+	
+	
+	/*Metodo formulario de Registro*/
+	public static RegisterUserModel generateRegisterUserModel(String language, String country, String emailDomain){
+		
+		Faker faker =  Faker.instance(
+				new Locale(language, country),
+				new Random()
+		);
+		
+		RegisterUserModel registerUserModel = new RegisterUserModel();
+		
+		registerUserModel.setEmail(
+				faker.name()
+						.username()
+						.concat(emailDomain)
+						.replace(SPACE_STRING, EMPTY_STRING)
+		);
+		
+		registerUserModel.setFirstName(faker.name().firstName());
+		registerUserModel.setLastName(faker.name().lastName());
+		registerUserModel.setPassword(faker.number().digits(8));
+		registerUserModel.setDayBirth(String.valueOf(faker.number().numberBetween(1, 28)));
+		registerUserModel.setMonthBirth(String.valueOf(faker.number().numberBetween(1, 12)));
+		registerUserModel.setYearBirth(String.valueOf(faker.number().numberBetween(1980, 2010)));
+		
+		registerUserModel.setAddress(faker.address().fullAddress());
+		registerUserModel.setCity(faker.address().city());
+		registerUserModel.setPostalCode(faker.address().zipCode());
+		registerUserModel.setMobilePhone(
+				String.valueOf(
+								faker
+										.number()
+										.numberBetween(300000000, 399999999))
+						.concat(
+								String.valueOf(
+										faker.number()
+												.numberBetween(1, 9)
+								)
+						)
+		);
+		registerUserModel.setState(STATE_BY_DEFAULT_FLORIDA);
+		
+		return registerUserModel;
+	}
+	
+	
 }
