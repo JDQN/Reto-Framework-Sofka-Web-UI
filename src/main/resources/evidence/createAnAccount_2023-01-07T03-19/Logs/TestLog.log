@@ -1,6 +1,0 @@
-2023-ene.-07 03:19:11 [Test] COMPLETED : Action 'startWebApp' executed successfully with parameters :
-'Feature : 'createAnAccount' , Url : 'https://demowebshop.tricentis.com/''.
-		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\createAnAccount_2023-01-07T03-19\createAnAccount\createAnAccount . Image name: createAnAccount-0.png
-2023-ene.-07 03:19:12 [Test] COMPLETED : Action 'click' executed successfully with parameters :
-'Web Element located by : 'No information' , Timeout : '2''.
-		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\createAnAccount_2023-01-07T03-19\createAnAccount\createAnAccount . Image name: createAnAccount-1.png

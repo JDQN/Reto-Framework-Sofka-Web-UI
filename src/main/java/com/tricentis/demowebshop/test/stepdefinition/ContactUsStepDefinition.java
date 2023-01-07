@@ -5,6 +5,7 @@ import co.com.sofka.test.evidence.reports.Assert;
 import com.tricentis.demowebshop.test.controllers.ContactUsFormController;
 import com.tricentis.demowebshop.test.controllers.LoginPageWebController;
 import com.tricentis.demowebshop.test.controllers.MessageContactController;
+import com.tricentis.demowebshop.test.controllers.ShoppingUnsuccessfullController;
 import com.tricentis.demowebshop.test.controllers.openwebpage.StartBrowserWebController;
 import com.tricentis.demowebshop.test.data.objects.TestInfo;
 import com.tricentis.demowebshop.test.models.ContacUsFormModel;

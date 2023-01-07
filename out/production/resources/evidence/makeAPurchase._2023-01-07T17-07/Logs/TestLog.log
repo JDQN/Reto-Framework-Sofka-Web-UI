@@ -1,0 +1,197 @@
+2023-ene.-07 17:07:08 [Test] COMPLETED : Action 'startWebApp' executed successfully with parameters :
+'Feature : 'makeAPurchase.' , Url : 'https://demowebshop.tricentis.com/''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-0.png
+2023-ene.-07 17:07:09 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-1.png
+2023-ene.-07 17:07:09 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-2.png
+2023-ene.-07 17:07:10 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'Víctor' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-3.png
+2023-ene.-07 17:07:10 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'Badillo' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-4.png
+2023-ene.-07 17:07:10 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'andrea.alonzo@sofmail.com' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-5.png
+2023-ene.-07 17:07:10 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : '66725362' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-6.png
+2023-ene.-07 17:07:11 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : '66725362' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-7.png
+2023-ene.-07 17:07:13 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-8.png
+2023-ene.-07 17:07:14 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-9.png
+2023-ene.-07 17:07:14 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-10.png
+2023-ene.-07 17:07:15 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-11.png
+2023-ene.-07 17:07:17 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-12.png
+2023-ene.-07 17:07:17 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-13.png
+2023-ene.-07 17:07:18 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-14.png
+2023-ene.-07 17:07:25 [Test] FAILED : Ocurrio un error al intentar llenar el formulario de Contact Us
+>> Failure:
+co.com.sofka.test.exceptions.WebActionsException: Action 'selectByText' execution failed with parameters :
+'Web Element located by : 'No information' , Option Text : 'Brasil' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-15.png
+	at co.com.sofka.test.actions.WebAction.selectByText(WebAction.java:1484)
+	at com.tricentis.demowebshop.test.controllers.CheckoutFormController.llenarCamposCheckout(CheckoutFormController.java:24)
+	at com.tricentis.demowebshop.test.stepdefinition.SuccessfulShoppingStepDefinition.theCustomerFillsOutTheFormCorrectlyMakingASuccessfulShopping(SuccessfulShoppingStepDefinition.java:79)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at cucumber.runtime.Utils$1.call(Utils.java:26)
+	at cucumber.runtime.Timeout.timeout(Timeout.java:16)
+	at cucumber.runtime.Utils.invoke(Utils.java:20)
+	at cucumber.runtime.java.JavaStepDefinition.execute(JavaStepDefinition.java:49)
+	at cucumber.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:50)
+	at cucumber.runner.TestStep.executeStep(TestStep.java:63)
+	at cucumber.runner.TestStep.run(TestStep.java:49)
+	at cucumber.runner.PickleStepTestStep.run(PickleStepTestStep.java:43)
+	at cucumber.runner.TestCase.run(TestCase.java:44)
+	at cucumber.runner.Runner.runPickle(Runner.java:40)
+	at cucumber.runtime.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:146)
+	at cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:68)
+	at cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:23)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:73)
+	at cucumber.api.junit.Cucumber.runChild(Cucumber.java:124)
+	at cucumber.api.junit.Cucumber.runChild(Cucumber.java:65)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at cucumber.api.junit.Cucumber$1.evaluate(Cucumber.java:133)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:69)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38)
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35)
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:235)
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:54)
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for co.com.sofka.test.actions.WebAction$$Lambda$393/0x0000000800461c40@2e183a50 (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PSOFKA0983', ip: '192.168.20.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.125, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\JUAN~1.QUI\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:49401}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3efa7d7cec60ab0a11f2989fddb7374b
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at co.com.sofka.test.actions.WebAction.selectByText(WebAction.java:1470)
+	... 42 more
+
+2023-ene.-07 17:07:40 [Test] COMPLETED : Action 'startWebApp' executed successfully with parameters :
+'Feature : 'makeAPurchase.' , Url : 'https://demowebshop.tricentis.com/''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-16.png
+2023-ene.-07 17:07:41 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-17.png
+2023-ene.-07 17:07:41 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-18.png
+2023-ene.-07 17:07:42 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'Marcos' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-19.png
+2023-ene.-07 17:07:42 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'Nevárez' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-20.png
+2023-ene.-07 17:07:42 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'homero.ramírez@sofmail.com' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-21.png
+2023-ene.-07 17:07:42 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : '81510252' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-22.png
+2023-ene.-07 17:07:43 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : '81510252' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-23.png
+2023-ene.-07 17:07:44 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-24.png
+2023-ene.-07 17:07:45 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-25.png
+2023-ene.-07 17:07:45 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-26.png
+2023-ene.-07 17:07:46 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-27.png
+2023-ene.-07 17:07:48 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-28.png
+2023-ene.-07 17:07:48 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-29.png
+2023-ene.-07 17:07:49 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-30.png
+2023-ene.-07 17:07:51 [Test] COMPLETED : Action 'selectByText' executed successfully with parameters :
+'Web Element located by : 'No information' , Option Text : 'Portugal' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-31.png
+2023-ene.-07 17:07:52 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'Paterna' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-32.png
+2023-ene.-07 17:07:52 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'Bajada María José Villareal s/n. Puerta 714, Elda, Man 80505' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-33.png
+2023-ene.-07 17:07:52 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : '32217' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-34.png
+2023-ene.-07 17:07:53 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : '3112535104' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-35.png
+2023-ene.-07 17:07:53 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-36.png
+2023-ene.-07 17:07:54 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-37.png
+2023-ene.-07 17:07:55 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-38.png
+2023-ene.-07 17:07:56 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-39.png
+2023-ene.-07 17:07:57 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-40.png
+2023-ene.-07 17:07:57 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-41.png
+2023-ene.-07 17:07:59 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'xpath: //strong[contains(text(),'Your order has been successfully processed!')]' , Timeout : '2' , Extracted Text : 'Your order has been successfully processed!''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-42.png
+2023-ene.-07 17:07:59 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2' , Extracted Text : 'Order number: 1350149''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-43.png
+2023-ene.-07 17:07:59 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2' , Extracted Text : 'Order number: 1350149''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-44.png
+2023-ene.-07 17:08:00 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-45.png
+2023-ene.-07 17:08:01 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\juan.quimbayo\Desktop\RetoFrameworkSofkaWebUI\src\main\resources\evidence\makeAPurchase._2023-01-07T17-07\makeAPurchase.\makeASuccessfulShopping. . Image name: makeASuccessfulShopping.-46.png

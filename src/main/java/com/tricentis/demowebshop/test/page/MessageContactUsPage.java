@@ -17,14 +17,24 @@ public class MessageContactUsPage {
 	@FindBy(xpath = "//body/div[4]/div[1]/div[4]/div[2]/div[1]/div[3]/form[1]/div[2]/div[1]/div[2]/span[1]")
 	private WebElement messageEnterEmail;
 	
+	@CacheLookup
+	@FindBy(xpath = "//span[contains(text(),'Phone is required')]")
+	private WebElement messagePhoneRequired;
 	
-	public WebElement getMessageContact(){
+	
+	
+	public WebElement getMessageContact() {
 		return messageContact;
 	}
-	
-	public WebElement getMessageEnterEmail(){
+	public WebElement getMessageEnterEmail() {
 		return messageEnterEmail;
 	}
+	public WebElement getMessagePhoneRequired() {
+		return messagePhoneRequired;
+	}
+	
+
+	
 	
 	public MessageContactUsPage(WebDriver driver) {
 		PageFactory.initElements(driver, this);

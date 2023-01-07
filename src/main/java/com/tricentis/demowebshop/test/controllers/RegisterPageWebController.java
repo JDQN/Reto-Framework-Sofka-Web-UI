@@ -25,9 +25,9 @@ public class RegisterPageWebController {
 			webAction.click(registerPagePage.getGenderMale(),true);
 			webAction.sendText(registerPagePage.getFirstName(),registerUserModel.getFirstName(),2,true);
 			webAction.sendText(registerPagePage.getLastName(),registerUserModel.getLastName(),2,true);
-			webAction.sendText(registerPagePage.getEmail(),registerUserModel.getEmail(),true);
-			webAction.sendText(registerPagePage.getPassword(),registerUserModel.getPassword(),true);
-			webAction.sendText(registerPagePage.getConfirmPassword(),registerUserModel.getPassword(),true);
+			webAction.sendText(registerPagePage.getEmail(),registerUserModel.getEmail(),2,true);
+			webAction.sendText(registerPagePage.getPassword(),registerUserModel.getPassword(),2,true);
+			webAction.sendText(registerPagePage.getConfirmPassword(),registerUserModel.getPassword(),2,true);
 			webAction.click(registerPagePage.getRegisterButton(),2,true);
 		}catch (WebActionsException e){
 			Report.reportFailure("Ocurrio un error al intentar crear la cuenta",e);

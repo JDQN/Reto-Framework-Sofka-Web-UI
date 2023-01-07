@@ -2,6 +2,7 @@ package com.tricentis.demowebshop.test.helpers;
 
 import co.com.sofka.test.evidence.reports.Report;
 import com.github.javafaker.Faker;
+import com.tricentis.demowebshop.test.models.CheckoutFormModel;
 import com.tricentis.demowebshop.test.models.ContacUsFormModel;
 import com.tricentis.demowebshop.test.models.RegisterUserModel;
 
@@ -98,5 +99,47 @@ public class Helper {
 		return registerUserModel;
 	}
 	
+	
+	/*Metodo formulario de Checkout*/
+	public static CheckoutFormModel generateCheckoutFormModel(String language, String country, String emailDomain){
+		
+		Faker faker =  Faker.instance(
+				new Locale(language, country),
+				new Random()
+		);
+		
+		CheckoutFormModel checkoutFormModel = new CheckoutFormModel();
+		
+		checkoutFormModel.setEmail(
+				faker.name()
+						.username()
+						.concat(emailDomain)
+						.replace(SPACE_STRING, EMPTY_STRING)
+		);
+		
+		checkoutFormModel.setFirstName(faker.name().firstName());
+		checkoutFormModel.setLastName(faker.name().lastName());
+		checkoutFormModel.setCountry(faker.address().country());
+		checkoutFormModel.setState(faker.address().state());
+		checkoutFormModel.setCity(faker.address().city());
+		checkoutFormModel.setAddress(faker.address().fullAddress());
+		checkoutFormModel.setPostalCode(faker.address().zipCode());
+		checkoutFormModel.setPhoneNumber(
+				String.valueOf(
+								faker
+										.number()
+										.numberBetween(300000000, 399999999))
+						.concat(
+								String.valueOf(
+										faker.number()
+												.numberBetween(1, 9)
+								)
+						)
+		);
+		
+		checkoutFormModel.setState(STATE_BY_DEFAULT_FLORIDA);
+		
+		return checkoutFormModel;
+	}
 	
 }
