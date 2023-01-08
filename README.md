@@ -15,6 +15,7 @@
 🌐 Link Plan de pruebas Zonafit: 
 
 ```
+https://docs.google.com/document/d/1mo06zulUZY1hCZZ2PIOenKtJbTWjgWWV/edit?usp=sharing&ouid=106621794610281791284&rtpof=true&sd=true
 ```
   
 
